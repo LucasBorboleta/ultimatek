@@ -6,7 +6,7 @@
 
 ![](./pictures/ultimatek-scene.jpg)
 
-A first version of the material is already created under Tabletopia platform and already available for test. 
+A first version of the material is already created under Tabletopia platform and already available for test. The rulebook is drafted with the basic game-play (only in French right now; sorry about that).
 
 This is a work in progress. Do not hesitate to contact me in order to test, work the rules or the theme ... or even publish it !
 
